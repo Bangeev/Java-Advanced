@@ -1,6 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p04RawData;
-
-import java.util.List;
+package javaAdvanced.p12DefiningClassesExercises.p04RawData;
 
 public class Car {
     String model;

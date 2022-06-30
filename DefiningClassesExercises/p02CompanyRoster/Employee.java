@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p02CompanyRoster;
+package javaAdvanced.p12DefiningClassesExercises.p02CompanyRoster;
 
 public class Employee {
     private String name;

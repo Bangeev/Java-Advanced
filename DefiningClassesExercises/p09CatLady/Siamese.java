@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p09CatLady;
+package javaAdvanced.p12DefiningClassesExercises.p09CatLady;
 
 public class Siamese extends Cat {
 double earSize;

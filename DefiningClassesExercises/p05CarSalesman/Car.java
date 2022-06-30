@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p05CarSalesman;
+package javaAdvanced.p12DefiningClassesExercises.p05CarSalesman;
 
 public class Car {
     private String model;

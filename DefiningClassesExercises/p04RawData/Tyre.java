@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p04RawData;
+package javaAdvanced.p12DefiningClassesExercises.p04RawData;
 
 public class Tyre {
     double pressure;

@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p06PokemonTrainer;
+package javaAdvanced.p12DefiningClassesExercises.p06PokemonTrainer;
 
 import java.util.*;
 

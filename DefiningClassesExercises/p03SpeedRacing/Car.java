@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p03SpeedRacing;
+package javaAdvanced.p12DefiningClassesExercises.p03SpeedRacing;
 
 public class Car {
     private final String model;

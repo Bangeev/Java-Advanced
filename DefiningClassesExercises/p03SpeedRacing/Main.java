@@ -1,7 +1,5 @@
-package JavaAdvanced.p12DefiningClassesExercises.p03SpeedRacing;
+package javaAdvanced.p12DefiningClassesExercises.p03SpeedRacing;
 
-import java.sql.SQLOutput;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;

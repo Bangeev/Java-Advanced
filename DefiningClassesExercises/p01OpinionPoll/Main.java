@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p01OpinionPoll;
+package javaAdvanced.p12DefiningClassesExercises.p01OpinionPoll;
 
 import java.util.*;
 import java.util.function.Consumer;

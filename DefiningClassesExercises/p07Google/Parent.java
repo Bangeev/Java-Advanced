@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p07Google;
+package javaAdvanced.p12DefiningClassesExercises.p07Google;
 
 public class Parent {
     String name;

@@ -1,6 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p09CatLady;
-
-import java.util.List;
+package javaAdvanced.p12DefiningClassesExercises.p09CatLady;
 
 public class Cat {
     String name;

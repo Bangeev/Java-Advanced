@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p02CompanyRoster;
+package javaAdvanced.p12DefiningClassesExercises.p02CompanyRoster;
 
 import java.util.*;
 
@@ -17,6 +17,7 @@ public class Main {
         }
 
 //        Department maxPayingDep = getMaxPayingDep(departments);
+
         Department maxPayingDep = departments
                 .entrySet()
                 .stream()

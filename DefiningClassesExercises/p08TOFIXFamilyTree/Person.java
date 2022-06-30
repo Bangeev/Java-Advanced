@@ -1,4 +1,4 @@
-package JavaAdvanced.p12DefiningClassesExercises.p08TOFIXFamilyTree;
+package javaAdvanced.p12DefiningClassesExercises.p08TOFIXFamilyTree;
 
 import java.util.*;
 
