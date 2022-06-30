@@ -1,4 +1,4 @@
-package JavaAdvanced.p10FunctionalProgrammingExercises;
+package javaAdvanced.p10FunctionalProgrammingExercises;
 
 import java.util.Arrays;
 import java.util.Scanner;

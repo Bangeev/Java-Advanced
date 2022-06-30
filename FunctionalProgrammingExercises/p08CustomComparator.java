@@ -1,10 +1,9 @@
-package JavaAdvanced.p10FunctionalProgrammingExercises;
+package javaAdvanced.p10FunctionalProgrammingExercises;
 
 import java.util.Arrays;
 
 import java.util.Comparator;
 import java.util.Scanner;
-import java.util.function.Consumer;
 
 
 public class p08CustomComparator {
