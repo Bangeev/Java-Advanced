@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p02GenericBoxOfInteger;
+package javaAdvanced.p14GenericsExercises.p02GenericBoxOfInteger;
 
 public class Box<T> {
     T element;

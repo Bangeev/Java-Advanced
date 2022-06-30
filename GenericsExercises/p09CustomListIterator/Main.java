@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p09CustomListIterator;
+package javaAdvanced.p14GenericsExercises.p09CustomListIterator;
 
 import java.util.Scanner;
 

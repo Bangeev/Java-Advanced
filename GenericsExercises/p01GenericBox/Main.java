@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p01GenericBox;
+package javaAdvanced.p14GenericsExercises.p01GenericBox;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p11Threeuple;
+package javaAdvanced.p14GenericsExercises.p11Threeuple;
 
 
 import java.util.Scanner;

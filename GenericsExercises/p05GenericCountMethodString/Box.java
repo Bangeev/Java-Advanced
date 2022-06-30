@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p05GenericCountMethodString;
+package javaAdvanced.p14GenericsExercises.p05GenericCountMethodString;
 
 import java.util.ArrayList;
 import java.util.List;

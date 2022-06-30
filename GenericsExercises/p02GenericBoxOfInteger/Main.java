@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p02GenericBoxOfInteger;
+package javaAdvanced.p14GenericsExercises.p02GenericBoxOfInteger;
 
 import java.util.Scanner;
 

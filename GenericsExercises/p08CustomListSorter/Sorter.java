@@ -1,7 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p08CustomListSorter;
-
-import java.util.List;
-import java.util.stream.Collectors;
+package javaAdvanced.p14GenericsExercises.p08CustomListSorter;
 
 public class Sorter {
 

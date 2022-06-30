@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p04GenericSwapMethodInteger;
+package javaAdvanced.p14GenericsExercises.p04GenericSwapMethodInteger;
 
 import java.util.ArrayList;
 import java.util.List;

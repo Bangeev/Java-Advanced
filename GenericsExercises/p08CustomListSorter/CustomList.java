@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p08CustomListSorter;
+package javaAdvanced.p14GenericsExercises.p08CustomListSorter;
 
 import java.util.ArrayList;
 import java.util.Collections;

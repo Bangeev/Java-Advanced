@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p07CustomList;
+package javaAdvanced.p14GenericsExercises.p07CustomList;
 
 import java.util.Scanner;
 

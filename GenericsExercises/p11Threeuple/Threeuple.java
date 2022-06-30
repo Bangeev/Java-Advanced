@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p11Threeuple;
+package javaAdvanced.p14GenericsExercises.p11Threeuple;
 
 public class Threeuple<E, T, S> {
    private E item1;

@@ -1,4 +1,4 @@
-package JavaAdvanced.p14GenericsExercises.p10Tuple;
+package javaAdvanced.p14GenericsExercises.p10Tuple;
 
 import java.util.ArrayList;
 import java.util.List;
